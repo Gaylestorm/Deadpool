@@ -1,3 +1,15 @@
 Hello wade 
 How are you john
 Hi this is baddu
+
+!doctype.html
+<html>
+<head>
+<h1> hi deadpool </h1>
+</head>
+<body>
+<p> this is what i want </p>
+
+</body>
+</html>
+
