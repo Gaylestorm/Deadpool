@@ -1,9 +1,8 @@
 Hello wade 
-<<<<<<< HEAD
+
 
 How are you john
-=======
->>>>>>> wade
+
 
 
 
